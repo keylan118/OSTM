@@ -4,7 +4,7 @@
   "license": "WTFPL",
   "repository": {
     "type": "git",
-    "url": "https://github.com/J0eCool/OSTM.git"
+    "url": "https://github.com/keylan118/OSTM.git"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
